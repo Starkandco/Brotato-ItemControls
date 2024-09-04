@@ -1,0 +1,23 @@
+{
+	"name": "ItemControls",
+	"namespace": "Starkandco",
+	"version_number": "1.0.0",
+	"description": "Adds a page for configuring item pools and other item-related settings.",
+	"website_url": "https://github.com/example/repo",
+	"dependencies": [
+		
+	],
+	"extra": {
+		"godot": {
+			"authors": ["Starkandco"],
+			"tags": ["item controls"],
+			"description_rich": "Adds a page for configuring item pools and other item-related settings.",
+			"optional_dependencies": [],
+			"load_before": [],
+			"incompatibilities": [],
+			"compatible_mod_loader_version": ["6.2.0"],
+			"compatible_game_version": ["1.2.3"],
+			"config_schema": {}
+		}
+	}
+}

@@ -1,0 +1,20 @@
+keys,de,en,es,fr,ja,ko,pl,pt,ru,zh,zh_TW,it,tr
+ITEM_CONTROLS,Gegenstandskontrollen,Item Controls,Controles de objetos,Contrôles des articles,アイテムコントロール,아이템 컨트롤,Kontrola przedmiotów,Controles de itens,Управление предметами,物品控制,物品控制,Controlli degli oggetti,Öğeleri Kontrol Et
+SAVE,Speichern,Save,Guardar,Sauvegarder,保存,저장,Zapisz,Salvar,Сохранить,保存,儲存,Salva,Kaydet
+USE_CUSTOM_POOL,Benutzerdefinierte Liste verwenden,Use custom pool,Usar lista personalizada,Utiliser une liste personnalisée,カスタムプールを使用,사용자 정의 목록 사용,Użyj niestandardowej listy,Usar lista personalizada,Использовать пользовательский список,使用自定义列表,使用自訂列表,Usa lista personalizzata,Özel liste kullan
+SORT_BY,Sortieren nach,Sort by,Ordenar por,Trier par,並べ替え,정렬 기준,Sortuj według,Ordenar por,Сортировать по,排序方式,排序方式,Ordina per,Göre sırala
+FILTER_BY,Filtern nach,Filter by,Filtrar por,Filtrer par,フィルター,필터 기준,Filtruj według,Filtrar por,Фильтровать по,筛选方式,篩選方式,Filtra per,Göre filtrele
+TYPE,Typ,Type,Tipo,Type,タイプ,유형,Typ,Tipo,Тип,类型,類型,Tipo,Tür
+TIER,Stufe,Tier,Nivel,Niveau,階層,등급,Poziom,Nível,Уровень,等级,等級,Livello,Seviye
+NAME,Name,Name,Nombre,Nom,名前,이름,Nazwa,Nome,Имя,名称,名稱,Nome,İsim
+WEAPONS,Waffen,Weapons,Armas,Armes,武器,무기,Broń,Armas,Оружие,武器,武器,Armi,Silahlar
+ITEMS,Gegenstände,Items,Objetos,Objets,アイテム,아이템,Przedmioty,Itens,Предметы,物品,物品,Oggetti,Öğeler
+UPGRADES,Verbesserungen,Upgrades,Mejoras,Améliorations,アップグレード,업그레이드,Ulepszenia,Melhorias,Улучшения,升级,升級,Miglioramenti,Yükseltmeler
+CONSUMABLES,Verbrauchsgegenstände,Consumables,Consumibles,Consommables,消耗品,소모품,Materiały eksploatacyjne,Consumíveis,Расходные материалы,消耗品,消耗品,Consumabili,Tüketilebilirler
+NONE,Keine,None,Ninguno,Aucun,なし,없음,Brak,Nenhum,Нет,无,無,Nessuno,Hiçbiri
+ASC,Aufst,Asc,Asc,Croiss,昇,오름,Rosn,Asc,Возр,升,升,Cresc,Art
+DESC,Abst,Desc,Desc,Décroiss,降,내림,Mal,Desc,Убыв,降,降,Decresc,Azal
+COMMON,Häufig,Common,Común,Commun,一般,일반,Pospolity,Comum,Обычный,普通,普通,Comune,Sıradan
+UNCOMMON,Ungewöhnlich,Uncommon,Poco común,Peu commun,珍しい,드문,Niepospolity,Incomum,Необычный,不常见,不常見,Non comune,Nadir
+RARE,Selten,Rare,Raro,Rare,レア,희귀한,Rzadki,Raro,Редкий,稀有,稀有,Raro,Çok Nadir
+LEGENDARY,Legendär,Legendary,Legendario,Légendaire,伝説,전설,Legendarny,Lendário,Легендарный,传奇,傳奇,Leggendario,Efsanevi
